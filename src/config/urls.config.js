@@ -5,3 +5,5 @@ const URLS= {
         SIGNUP:'/signup'
     }
 }
+
+export default URLS
